@@ -1,3 +1,4 @@
+###這段程式碼展示了一個簡單的 PyQt6 GUI 程式，實現了以下功能：顯示標籤和輸入框。按下按鈕後顯示輸入的文字，並進行空白檢查。清除輸入框與標籤內容。使用垂直佈局管理元件。
 from PyQt6.QtWidgets import (
     QApplication, QLabel, QLineEdit,
     QPushButton, QVBoxLayout, QWidget, QMessageBox
